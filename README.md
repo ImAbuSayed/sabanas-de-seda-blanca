@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sabanas-de-seda-blanca/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Sábanas de seda blanca](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-de-seda-blanca/) |
+| **Get License** | [Obtain a Music License for Sábanas de seda blanca](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-de-seda-blanca/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Sábanas de seda blanca, mami, bajo la luna
+> Esa mirada me llama, como tú no hay ninguna
+> Esta noche es un viaje, baby, solo tú y yo
+> Enredados en mi cama, perdiéndonos al calor
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
