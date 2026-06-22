@@ -15,7 +15,7 @@
 | **Written On** | June 21, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sabanas-de-seda-blanca/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Sábanas de seda blanca](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-de-seda-blanca/) |
+| **Get License** | [Official Music Licensing for Sábanas de seda blanca](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-de-seda-blanca/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -115,8 +115,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | Verification Detail | Information |
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
-| **Version** | `v1` |
-| **SHA-256 Hash** | `512d61ff768a1641f43e1c8514526d857ba54b149aab59c52227fadd3830d5fe` |
+| **Version** | `v2` |
+| **SHA-256 Hash** | `9126346104a84836b16a8c45d5ea5c4c805f8fce098b28cd8002578030bf9490` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
