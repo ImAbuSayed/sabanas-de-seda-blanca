@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Sábanas de seda blanca |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 21, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sabanas-de-seda-blanca/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Sábanas de seda blanca](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-de-seda-blanca/) |
+| **Get License** | [Music Rights & Licensing for Sábanas de seda blanca](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-de-seda-blanca/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Sábanas de seda blanca, mami, bajo la luna
-> Esa mirada me llama, como tú no hay ninguna
-> Esta noche es un viaje, baby, solo tú y yo
-> Enredados en mi cama, perdiéndonos al calor
+> Sábanas de seda blanca, tu piel se enreda en mi calor
+> Dime si esta noche hay plan, que soy dueño de tu amor
+> El perfume en tu mirada me provoca sin piedad
+> De Madrid a tu cintura, solo quiero intimidad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
